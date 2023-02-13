@@ -5,7 +5,7 @@
         <v-col cols="10">
           <v-row justify="center">
             <v-col cols="12" sm="5">
-              <h1 class="font-weight-light display-1 green--text">For Any Assistance Required Please Reach Out</h1>
+              <h1 class="font-weight-light display-1">For Any Assistance Required Please Reach Out</h1>
               <!-- <h3 class="font-weight-light mt-3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste
                 explicabo commodi quisquam asperiores dolore ad enim provident
@@ -14,10 +14,10 @@
               <!-- <h3 class="font-weight-light mt-3">
                 Lorem ipsum dolor sit amet consectetur adipisicing.
               </h3> -->
-              <h3 class="font-weight-light mt-3 green--text">
+              <h3 class="font-weight-light mt-3">
                 Telefone: +91 96932 43217
               </h3>
-              <h3 class="font-weight-light green--text">
+              <h3 class="font-weight-light">
                 Email: info@codingage.biz
               </h3>
             </v-col>
@@ -49,7 +49,7 @@
 
                 <v-btn
                     :disabled="!valid"
-                    color="green"
+                    color="blue"
                     :dark="valid"
                     rounded
                     block

@@ -64,9 +64,9 @@
           </div> 
           <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                  <img class="img-fluid" src="assets/images/header-image.png" alt="alternative" />
+                  <img class="img-fluid" src="assets/images/recorrected.png" alt="alternative" />
               </div> 
-          </div> 
+          </div>  
       </div> 
   </div> 
 </header> 
@@ -138,7 +138,7 @@
       <div class="row">
           <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                  <img class="img-fluid" src="assets/images/details-1.png" alt="alternative" />
+                  <img class="img-fluid" src="assets/images/corrected-login-image.png" alt="alternative" />
               </div> 
           </div> 
           <div class="col-lg-6 col-xl-5">
